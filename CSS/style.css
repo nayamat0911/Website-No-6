@@ -1,0 +1,44 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: arial, tahoma, times new roman;
+	
+
+}
+h1 ,h2, h3 ,h4 h5, h6, ul, a, input, button{
+	margin:0;
+	padding: 0;
+}
+p{
+	font-size: 14px;
+}
+/*----------header-par----------*/
+.header-part{
+	background: #252525;
+	color: red;
+}
+.header_left
+.header_right h4{font-size: 30px; color: #fff;}
+
+
+
+
+
+.about-us h3{ color: red;  }
+
+.main_content img{background: #EEE8AA; box-sizing: border-box;}
+
+
+
+.fa-accessible-icon{ font-size: 35px; color: #000; }
+.fa-archway{font-size: 35px; color: #000; }
+
+.Administor{margin-top:20px; text-align: center; }
+.Administor img{ border-radius: 50%; }
+.testamonial{border: 2px solid #A9A9A9; border-radius: 15px; background:radial-gradient( #FA8072,#FFB6C1,#FFC0CB,#FFDAB9,#FFF5EE);}
+.test-body{background: #fff;}
+.titel_1 {padding-top: 15px; font-size: 17px; font-weight: bold}
+.titel_2 {line-height:14px; font-size: 15px; font-weight: bold}
+.footer_section p{line-height:10px;}
+.footer_section h5{padding :10px;}
+.socal_icon i{ font-size: 35px; }
